@@ -1,0 +1,41 @@
+The top 10 words are as follows:
+For hockey:
+nhl bruins goalie leafs lemieux lindros nyr ahl nyi pts
+For pc:
+isa jumper vlb irq bios jumpers dma ide esdi adaptec
+For xwindows:
+char x motif widgets colormap pixmap widget xterm xlib oname
+For medical:
+symptoms cancer patients diet syndrome foods msg yeast gebcspittedu candida
+For windows:
+instruction nt windows swap bmp risc mswindows allocation paradox maxaxaxaxaxaxaxaxaxaxaxaxaxaxax
+For autos:
+dealer saturn ford tires car brake cars toyota sho automotive
+For forsale:
+cds manuals shipping sale obo hulk forsale comics wolverine spiderman
+For electronics:
+wire cooling circuit outlets towers outlet voltage wiring circuits grounding
+For space:
+missions moon launch lunar orbital shuttle satellites mars orbit spacecraft
+For christian:
+spirit christians heaven christ sin church catholic scripture resurrection clh
+For crypto:
+encrypted cryptography mov wiretap encryption escrow ripem crypto keyescrow rsa
+For guns:
+batf militia weapon gun guns atf handguns firearms handgun firearm
+For graphics:
+graphics images image animation gif quicktime tiff polygon jpeg cview
+For baseball:
+hitter lopez phillies reds mets pitching alomar dodgers pitchers rbi
+For politics:
+drugs president tax q gay jobs myers clayton cramer stephanopoulos
+For atheism:
+islam allan atheists quran liveseysolntzewpdsgicom livesey atheism schneider rushdie keithccocaltechedu
+For religion:
+christian jesus objective koresh biblical morality kent sandviknewtonapplecom ra judas
+For mac:
+centris nubus duo lc powerpc pds lciii powerbook adb iisi
+For motorcycles:
+ama ride riding dod motorcycles helmet riders motorcycle bike bikes
+For mideast:
+lebanese israelis armenia arabs armenians armenian argic azerbaijan serazumauucp serdar
